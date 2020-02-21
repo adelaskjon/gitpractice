@@ -5,5 +5,7 @@ public class practice {
 
         System.out.println("hello London");
         System.out.println("Welcome to Fenchly");
+
+        System.out.println(" good night");
     }
 }
